@@ -99,7 +99,7 @@ live from that provider, and returns the result in the requested output format.
 
 These are configuration values to validate against the first full SCB harvest. They are not measured capacity promises.
 
-### 1.3 Explicit amendments to `specs.md`
+### 1.3 Explicit amendments to `specs`
 
 | Baseline statement | Replacement/clarification |
 |---|---|
